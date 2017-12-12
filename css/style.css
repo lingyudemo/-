@@ -8,7 +8,6 @@ img{
 /*头部*/
 .wrapper{
 	width:1200px;
-	height:2000px;
 	margin: 0 auto;
 	
 }
@@ -183,6 +182,124 @@ padding-right: 2px;
 .us_4 p{
 	padding:20px 0;
 }
+/*服务板块*/
+.service_2{
+	width:500px;
+	text-align: center;
+	margin-left:300px;
+}
+.service_2 p:last-child{
+	font-size:14px;
+	margin-top:20px;
+	line-height: 25px;
+}
+.service_2 p:first-child{
+	margin-top:35px;
+	margin-bottom: 10px;
+}
+.service_3{
+	margin-top:60px;
+	margin-bottom: 30px;
+}
+.service_3 a{
+	text-decoration: none;
+	color:black;
+}
+.s3{
+	width:488px;
+	height: 413px;
+	background-color: rgb(240,240,240);
+}
+.s3_1{
+	width:350px;
+	margin-top: 50px;
+	margin-left: 77px;
+}
+.s3_1 p{
+	font-size:14px;
+	line-height: 25px;
+	margin:15px 0 50px 0;
+}
+.service_4{
+	width:500px;
+	text-align: center;
+	margin-left:300px;
+}
+.service_4 p{
+	font-size:14px;
+	line-height: 25px;
+	margin:25px 0;
+}
+.service_6{
+	text-align: center;
+	margin: 50px 0;
+}
+.service_6 p{
+	font-size: 11px;
+	margin-bottom: 20px;
+}
+.service_7{
+	width:700px;
+	margin-left: 283px;
+}
+.service_7 input{
+	height:35px;
+	width:200px;
+	margin:10px 5px;
+	padding-left: 5px;
+	font-size:14px;
+}
+.service_7 textarea{
+	width:640px;
+	height: 94px;
+	padding: 10px 0 0 10px;
+	margin-left:4px;
+	font-size:14px;
+}
+.pingjia{
+	width:200px;
+	height:25px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	line-height: 25px;
+	margin-left: 219px;
+	margin-bottom: 50px;
+}
+/*联系我们部分*/
+.contact_2{
+	background: url(../img/images/images/contactus_02.jpg) no-repeat;
+	width:1200px;
+	height: 802px;
+	font-size:14px;
+	line-height: 26px;
+	color: white;
+}
+.contact_1{
+	margin-bottom: 20px;
+}
+.contact_21  {
+padding:0 10px;
+margin-left:50px;
+}
+.contact_21 img{
+margin-top: 200px;
+padding: 0 18px;
+}
 
-
+.contact_22{
+	margin-left: 76px;
+	margin-top: 50px;
+	
+}
+.contact_23{
+	margin-left: 76px;
+	margin:70px 0 70px 76px;
+}
+.contact_24{
+	margin-left: 76px;
+}
+.contact_3,.contact_2{
+	margin-bottom: 20px;
+}
 
