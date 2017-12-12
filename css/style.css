@@ -1,0 +1,188 @@
+*{
+	margin:0;
+	padding:0;
+}
+img{
+	vertical-align: bottom;
+}
+/*头部*/
+.wrapper{
+	width:1200px;
+	height:2000px;
+	margin: 0 auto;
+	
+}
+.header_top{margin-top: 15px;}
+.header_1{
+	float:left;
+}
+.header_1 img{
+	width: 255px;
+	margin-left: 20px;
+}
+.header_2{
+	float:left;
+	margin-top: 6px;
+	margin-left: 153px;
+}
+.header_2 li{
+	display:inline-block;
+	padding: 13px;
+	font-size: 17px;
+}
+.header_2 a{
+	color: #606060;
+}
+.header_3{
+	float:right;
+	margin-right: 29px;
+}
+.header_3 img{
+	width:35px;
+}
+.content_logo {
+	width:1200px;
+	height:100px;
+}
+.content_logo ul{
+	margin-left:200px;
+}
+.content_logo li{
+	float: left;
+	color:rgb(96,96,96);
+	padding-left:58px;
+	text-align: center;
+}
+.content_logo img{
+	width:56px;
+	height: 56px;
+}
+.p1{
+	font-size:22px;
+}
+.p2{
+	font-size: 10px;
+}
+
+.g-cf,.g-o,.g-w {*zoom: 1}
+.g-cf:after,.g-o:after,.g-w:after {
+	display: block;
+	visibility: hidden;
+	clear: both;
+	height: 0;
+	content: '\20'
+}
+
+.g-fl {float: left}
+.g-fr {float: right}
+
+
+
+
+
+
+/*底部*/
+.footer{
+ width:1200px;
+ height:250px;
+ background-color: black;
+ color:rgb(214,214,214);
+ position:absolute;
+}
+.footer_1{
+	font-size:15px;
+	width:1200px;
+	height:150px;
+	position: relative;
+	top:31px;
+}
+.footer_1 li{
+	float:left;
+	padding-left:63px;;
+}
+.footer_1 p{
+	margin-top:6px;
+}
+.li2 img{
+	padding-left:15px;
+}
+.footer_3  ul{
+	margin-left:47px;
+}
+.footer_3 li{
+	float:left;
+	padding-left:14px;
+}
+/*产品详板块*/
+.div1{
+	width:723px;
+	height: 300px;
+	margin-left:243px;
+}
+.div1 p:first-child{
+	font-size:60px ;
+}
+.div1 p:nth-child(2){
+	font-size:20px ;
+	margin: -5px 0 40px;
+}
+.div1 p:last-child{
+	font-family: 宋体;
+	font-size:14px;
+	line-height: 25px;
+}
+.div3{
+	width:723px;
+	height: 150px;
+	margin-left:243px;
+	font-family: 宋体;
+	font-size:14px;
+	line-height: 25px;
+}
+.div4 p{
+	font-family: Good Times;
+	font-size: 50px;
+}
+.div4 img{
+padding-right: 2px;
+}
+/*我们部分*/
+.us_1{
+	width:723px;
+	height: 300px;
+	margin-left:243px;
+    margin-top:50px;
+}
+.img_us{
+	margin:25px;
+}
+.us_1 p{
+	font-size:14px;
+	line-height: 28px;
+}
+.us_2{
+	margin-top: 70px;
+}
+.us_3{
+	width:723px;
+	height: 240px;
+	margin-left:243px;
+}
+.us_3 p:first-child{
+	font-size: 30px;
+	padding:25px 0;
+}
+.us_3 p:last-child{
+	font-size:14px;
+	line-height: 25px;
+}
+.us_4 {
+	height: 400px;
+	text-align: center;
+}
+.us_4 p{
+	padding:20px 0;
+}
+
+
+
