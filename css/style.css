@@ -303,3 +303,53 @@ padding: 0 18px;
 	margin-bottom: 20px;
 }
 
+.zhuti{
+	margin:0 auto;
+	width:1170px;
+	background-color: white;
+	
+}
+.linian{
+	width:1170px;
+	margin:0 auto;
+	background-color: rgb(226,226,226);
+
+}
+.linian_1{
+	margin-bottom: 10px;
+}
+.linian_2_1 {
+	width:579px;
+	height:375px;
+	background-color: white;
+}
+.linian_2_1 p{
+	font-size:13px;
+}
+.linian_2_11{
+	width:450px;
+	margin-top:129px;
+	margin-left: 67px;
+}
+.linian_2_11 h2{
+	margin-bottom: 25px;
+}
+.linian_2_11 p{
+	margin-bottom: 25px;
+	line-height: 20px;
+}
+.linian_2_11 p:last-child{
+	border-top: 2px solid rgb(226,226,226);
+	width: 70px;
+	padding-top: 5px;
+
+}
+.linian_2{
+	margin-bottom: 10px;
+}
+header{
+	width: 1170px;
+	margin: 0 auto;
+	background-color: white;
+	height: 69px;
+}
