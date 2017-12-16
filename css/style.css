@@ -40,7 +40,7 @@ img{
 	width:35px;
 }
 .content_logo {
-	width:1200px;
+	width:1170px;
 	height:100px;
 }
 .content_logo ul{
@@ -82,15 +82,16 @@ img{
 
 /*底部*/
 .footer{
- width:1200px;
+ width:1170px;
  height:250px;
  background-color: black;
  color:rgb(214,214,214);
  position:absolute;
+ margin-top:50px;
 }
 .footer_1{
 	font-size:15px;
-	width:1200px;
+	width:1170px;
 	height:150px;
 	position: relative;
 	top:31px;
@@ -268,13 +269,24 @@ padding-right: 2px;
 }
 /*联系我们部分*/
 .contact_2{
-	background: url(../img/images/images/contactus_02.jpg) no-repeat;
-	width:1200px;
+	background: url(../img/images/images/contactus1_2.jpg) no-repeat;
+	width:1170px;
 	height: 802px;
 	font-size:14px;
 	line-height: 26px;
 	color: white;
 }
+.contact_3{
+	background: url(../img/images/images/contactus1_3.jpg) no-repeat;
+	width:1170px;
+	height: 802px;
+}
+.contact_3 p{
+	font-size:14px;
+	color: white;
+	margin-left: 50px;
+}
+
 .contact_1{
 	margin-bottom: 20px;
 }
