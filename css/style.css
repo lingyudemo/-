@@ -365,3 +365,16 @@ header{
 	background-color: white;
 	height: 69px;
 }
+.main{
+	width:1170px;
+	height:3000px;
+	background-color: rgb(242,242,242);
+}
+.main_container{
+	width:820px;
+	height:2000px;
+	margin-left:190px;
+}
+.botoom{
+	margin-top:100px;
+}
